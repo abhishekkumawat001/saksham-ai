@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Design specs from Docs */
+body {
+    background-color: #FEFCE8; /* Cream White */
+    color: #1C1917; /* Dark Charcoal */
+    font-family: 'Hind', sans-serif;
+}

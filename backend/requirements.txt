@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+redis
+celery
+boto3
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+twilio
+openai
+pinecone-client
