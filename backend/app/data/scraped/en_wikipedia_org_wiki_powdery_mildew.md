@@ -1,0 +1,100 @@
+# Erysiphaceae
+
+<!-- source: https://en.wikipedia.org/wiki/Powdery_mildew -->
+
+Erysiphaceae
+Erysiphaceae (commonly known as powdery mildews) is a family of ascomycete fungi in the order Helotiales. The members of this family are obligate parasites with a superficial mycelium that forms a characteristic white, powdery coating on their host plants.
+The family contains seventeen genera and around a thousand species.[1] Combined they infect over 10,000 species of plants, many of which are commercially valuable.[2]
+Description
+[edit]Powdery mildews exist in two states, the asexual anamorph state reproducing by means of conidia, and the sexual teleomorph state reproducing by means of ascospores produced in asci developing in more or less spherical chasmothecia. The ripe spores become detached and are readily dispersed by the wind, causing fresh infection. The usually conspicuous whitish mycelium and conidiophores on leaves, and sometimes on stems, fruits or even petals, are what is generally seen first. The chasmothecia are usually visible to the naked eye and turn from translucent or yellow-orange to purple or black. They are produced on the mycelium later in the season, though may be absent. Upon reaching maturity the chasmothecia may develop hair‐like appendages that may branch in characteristic ways.[3]
+The mycelium can appear in varying degrees of thickness and patchiness, on leaves, petioles, stems, twigs, fruits or flowers. On leaves, mycelium can be epiphyllous (on leaf uppersides), hypophyllous (on leaf undersides) or amphigenous (on both sides). Phyllactinia in particular is characterised by hypophyllous mycelium, although members of other genera also infect only the leaf undersides.
+Erysiphaceae species are occasionally also associated with galls. For example, Podosphaera phytoptophila is one of the causers of witch's broom galls on hackberry (Celtis occidentalis). Although not fully understood, it is believed that a minute, wormlike, eriophyid mite (Aceria celtis) induces the brooms and P. phytoptophila exploits the weakened plant and favourable habitat created by deformed buds and dense branching.[4] Cystotheca lanestris is also known as a North American gall-former, on various Quercus species.[5]
+The similarly-named but unrelated downy mildews (Peronosporaceae) can have a similar appearance to powdery mildews, however the former always grow on the underside of leaves, often causing yellowing on the upperside. The mycelium of these members of the Peronosporales is internal in the plant tissue and the sporangiophores (more or less equivalent to conidiophores) emerge through the stomata; in the Peronosporaceae the sporangiophores are elongated and branched above so that the colonies are downy or felt‐like and usually greyish in colour.[3]
+Ecology
+[edit]Erysiphaceae species are obligate biotrophs, meaning they infect living plants. Specialised haustoria are able to penetrate the plant cells while keeping them alive. Most powdery mildew species are highly host-specific, infecting at most a few genera and frequently just a single species. The few species that are still rather broadly defined are considered species complexes with a narrow sensu stricto host range. Despite this, they are capable of 'jumping' host to infect a new genus. It is thought the now-common species in Europe Erysiphe alphitoides did this to first infect oaks (Quercus), facilitating its spread to the continent. Since then, it has also been reported as occurring on plants such as Wisteria, demonstrating the host-jumping ability that has led to its success.[6][7]
+Some Erysiphaceae species host the hyperparasite Ampelomyces quisqualis.[8] This fungus reduces growth and may even kill the mildew, leading to its use as an active ingredient in some fungicides. Around 40 other fungal species have been known to parasitise powdery mildews: mainly ascomycetes such as Cladosporium but including basidiomycetes such as Tilletiopsis.[9]
+Distribution
+[edit]Erysiphaceae have a cosmopolitan distribution and are native to every continent other than Antarctica and Australia.[10] The centre of biodiversity appears to be in East Asia,[11] and many species have been introduced from here to other continents such as Europe and North America, often due to trade in plants for gardens. Some powdery mildew species can become invasive when introduced outside their native range.[12]
+As well as a circumglobal distribution, powdery mildews are also found in any and all habitats with enough vascular plants to sustain a population. While the diversity of powdery mildews in some areas (such as Western Europe) has been well-studied, there are undescribed species in all regions of the world, with the diversity of some areas such as much of Africa still little-known.
+Identification
+[edit]While the benchmark for fungal identification remains the two-step combination of microscopy and DNA sequencing, a great many powdery mildew species can be identified in the field with a combination of host plant information and visible characteristics such as colour and texture.
+Due to the fact that all powdery mildew species are to some extent host-specific (most are highly restricted to only a single genus or even species) host plant identification is vital for identification in the field or often under the microscope. Some powdery mildew species even have identical ITS sequences,[13] meaning host plant information is still necessary even when the specimen is sequenced.
+Distinguishing characteristics in the field or from photos include the location of the infection on the plant, including what side of the leaf it infects; the thickness and colour of the mycelium; and sometimes the appearance and colour of chasmothecia if present. Under the microscope, a key characteristic to determine between genera is the presence or absence of fibrosin bodies in the conidia. Other characteristics useful for identification are the shape and length of conidia, whether they are single or on conidiophores, the shape of appresoria, and the appearance of chasmothecial appendages.[3]
+Management
+[edit]Some cultivars of both vegetables and ornamental plants are bred to be resistant to powdery mildews. Powdery mildew thrives particularly in areas with little air flow, dry host leaves and humid conditions.[14] As a result, it is important to manage the environment around susceptible plants by: avoiding sheltered places, such as against walls or fences, where the air is likely to be still; providing good drainage, but watering regularly during dry periods (plants suffering from regular but intermittent drought-stress are more susceptible); not planting too densely, giving space between plants; and pruning shrubs to give an open structure improving air circulation and humidity. Application of mulch may help water retention. It is also recommended not to over-fertilise (especially not too much nitrogen) as succulent growth is particularly susceptible to infection.[15]
+Especially on an industrial scale, powdery mildew infections can be managed by the application of fungicides.[16] Spray programs of conventional fungicides are advised to begin when powdery mildew symptoms and signs are first noticed. Conventional fungicides should be applied on a regular basis for best results against the disease, although in some species there is a high risk of fungicide resistance.[17] Another effective prevention method is through genetic resistance. For example, combinations of variations of the Pm3 allele has been shown to provide improved protection against powdery mildew infection.[18]
+Several unconventional methods of chemical control have been tested to varying degrees of success. Some commonly reported methods include milk, sulphur, potassium bicarbonate, metal salts and oils.[19][20] Neem oil is said to effectively manage powdery mildew on many plants by interfering with the fungus' metabolism and terminating spore production. Milk has been proven effective at treating powdery mildew on some greenhouse crops,[21] potentially because ferroglobulin, a protein in whey, produces oxygen radicals when exposed to sunlight, and contact with these radicals is damaging to the fungus. Another unconventional chemical treatment involves treating with a solution of calcium silicate.[22] Silicon reportedly helps defend plants against fungal attack by degrading haustoria and by producing callose and papilla.
+History
+[edit]Powdery mildews are thought to have first evolved in the Late Cretaceous,[23] and have evolved with their host plants for millennia. The most ancestral genera of the family, Paraunicnula and Caespitotheca, are theorised to have evolved in the Northern Hemisphere and migrated southward with their hosts, leading to relict populations in South America and East Asia.[23] These two genera have multiple features in common, including uncinulate-circinate appendage tips and woody host plants. This suggests that powdery mildews likely first evolved with this micromorphology infecting woody host plants, and since branched out to infect herbaceous plants.[24][25]
+The first description of a powdery mildew species came from Linnaeus in his 1753 work Species Plantarum, combining infections on multiple hosts including Humulus, Acer, Lamium, Galeopsis, and Lithospermum as one species under the name Mucor erysiphe. The first authors to extensively describe powdery mildews were de Candolle and Wallroth in the early 1800s, although many of their species would then be lumped into just 16 by Fries, all in the genus Erysiphe.[26] The first monograph of the group was published by Salmon in 1900. By the time of Uwe Braun's 1987 monograph, many more species and genera had been described, although following Braun and Cook's landmark publication of the Taxonomic Manual of the Erysiphales in 2012 some of the genera needed to be absorbed due to the 'one fungus one name' rule implemented the same year.[27] As a result of this change to the Code, anamorph genera are no longer accepted. However, some species have not yet been reassigned to their correct teleomorph genus, while some are not known in the teleomorph state. Many anamorphic mildew species were formerly placed in the genus Oidium. Many of these are now correctly placed in different genera, although some have not yet been assigned to a new genus. A process that had already begun by the time Braun and Cook's treatment came out – the transformation of taxonomy using genomic DNA – has accelerated, especially in the past half-decade for powdery mildews, leading to many new species described.
+Genera
+[edit]The following list of genera is that accepted by Shirouzu et al. (2020)[1] updated to reflect Bradshaw et al. (2025).[28]
+- Arthrocladiella Vassilkov
+A monotypic genus containing the species Arthrocladiella mougeotii, which infects species in the genus Lycium.[29]
+- Blumeria Golovin ex Speer
+(Oidium sensu stricto) – often has thick growth and densely packed chasmothecia, and is restricted to grass hosts (Poaceae).[30]
+- Brasiliomyces Viegas
+Brasiliomyces comprises four species with small, semitransparent chasmothecia with single-layered peridia.[31]
+- Bulbomicroidium Marm., S. Takam. & U. Braun
+One species, with sparse mycelium loosely spreading on both surfaces of Bauhinia.[32]
+- Caespitotheca S. Takam. & U. Braun
+An ancestral monotypic genus containing the species Caespitotheca forestalis, infecting Schinopsis.[33]
+- Cystotheca Berk. & Curtis
+(formerly with the anamorph Setoidium) – Cystotheca causes witch's-brooms and shoot damage, specialising mostly on oaks and relatives (Fagaceae).[34]
+- Erysiphe DC.
+(formerly with the anamorph Pseudoidium) – Erysiphe is a highly diverse genus, found worldwide on a wide array of host plants, particularly in warm-temperate climes.[35][36][37]
+- Golovinomyces (U. Braun) Heluta
+(formerly with the anamorph Euoidium) – Golovinomyces contains greyish-white species that are often seen in the autumn and have a diverse host range on herbs and forbs.[38]
+- Microidium (To-anun & S. Takam.) To-anun & S. Takam.
+Microidium (named after its tiny conidiophores and conidia) is only found on Phyllanthaceae.[39]
+- Neoerysiphe U. Braun
+(formerly with the anamorph Striatoidium) – Similarly to Golovinomyces, Neoerysiphe consists of greyish-white species that are often seen in the autumn and have a diverse host range on herbs and forbs; it develops ascospores after a cold period (stratification).[40]
+- Parauncinula S. Takam. & U. Braun
+Parauncinula is the earliest-diverging genus in the Erysiphaceae, endemic to East Asia and infecting hosts in the Fagaceae. It consists of four species.[41]
+- Phyllactinia Lev.
+Phyllactinia consists of three sections, two of which were formerly considered separate genera: sect. Leveillula, sect. Phyllactinia, and sect. Basiphyllactinia. Section Leveillula formerly had the anamorph genus Oidopsis and consists of two main groups found on herbs and shrubs. One produces bright white cottony or puffy tufted mycelium often on host plants' stems, and the other produces weak feathery or fluffy mycelium often on host plants' leaves. Section Phyllactinia, some species formerly included in the anamorph genus Ovulariopsis, is mostly found on shrubs and trees and produces smooth weak pale mycelium on leaf undersides. Section Basiphyllactinia is found on various forbs, shrubs, and trees, and produces usually thick dense colourful mycelium on lower or both sides of leaves.[28]
+- Pleochaeta Sacc. & Speg.
+Pleochaeta (with anamorphs formerly part of Streptopodium or Ovulariopsis) is found on trees or forbs and produces fluffy mycelium, very faint to sometimes dense, mainly on leaf undersides. Queirozia has been reduced to synonymy with this genus.[28]
+- Podosphaera Kunze
+(formerly with the anamorph Fibroidium) – Podosphaera is common, especially on roses and related fruit trees (Rosaceae), and frequently twists and distorts leaves and shoots.[9]
+- Salmonomyces Chidd.
+The genus Salmonomyces was resurrected in 2020. The genus includes two species: Salmonomyces acalyphae and Salmonomyces javanicus.[42]
+- Sawadaea Miyabe
+(formerly with the anamorph Octagoidium) – Sawadaea is common on maples and their relatives (Sapindaceae), forming spreading mats on leaves.[43]
+- Takamatsuella U. Braun & A. Shi
+Similarly to Sawadaea, Takamatsuella is fairly common on maples and has similar macromorphology.[43]
+Gallery
+[edit]- 
+			
+			Erysiphe takamatsui infecting Nelumbo in the UK.
+- 
+			
+			Blumeria hordei infecting Hordeum in the UK.
+- 
+			
+			Unknown Phyllactinia sect. Leveillula species on Capsicum in India.
+- 
+			
+			Phyllactinia fraxini on Fraxinus in the UK.
+References
+[edit]- ^ a b Shirouzu, Takashi; Takamatsu, Susumu; Hashimoto, Akira; Meeboon, Jamjan; Ohkuma, Moriya (2020). "Phylogenetic overview of Erysiphaceae based on nrDNA and MCM7 sequences". Mycoscience. 61 (5): 249–258. doi:10.1016/j.myc.2020.03.006.
+- ^ Bradshaw, Michael J.; Boufford, David; Braun, Uwe; Moparthi, Swarnalatha; Jellings, Keila; Maust, Autumn; Pandey, Binod; Slack, Suzanne; Pfister, Donald H. (2024-03-01). "An In-Depth Evaluation of Powdery Mildew Hosts Reveals One of the World's Most Common and Widespread Groups of Fungal Plant Pathogens". Plant Disease. 108 (3): 576–581. Bibcode:2024PlDis.108..576B. doi:10.1094/PDIS-07-23-1471-RE. ISSN 0191-2917. PMID 37755416.
+- ^ a b c Woods, R.G.; Chater, A.O.; Evans, D.A.; Smith, P.A.; Stringer, R.N. (2024). The Powdery Mildews (Erysiphales) of Britain and Ireland - an Identification Guide and Census Catalogue for Wales (PDF).
+- ^ Sinclair, W.A.; Lyon, H.H. (2005). Diseases of Trees and Shrubs (2nd ed.). Cornell University Press. ISBN 0-8014-4371-7.
+- ^ Bradshaw, Michael; Braun, Uwe; Quijada, Luis; Coombes, Allen J.; Contreras-Paredes, Carlos; Pfister, Donald H. (2023-05-04). "Phylogeny and taxonomy of the genera of Erysiphaceae, part 3: Cystotheca". Mycologia. 115 (3): 427–436. doi:10.1080/00275514.2023.2194172. ISSN 0027-5514. PMID 37159342.
+- ^ Henricot, B.; Cook, R. T. A. (2008). "New report of a powdery mildew on Wisteria in the UK". Plant Pathology. 57 (2): 374. Bibcode:2008PPath..57..374H. doi:10.1111/j.1365-3059.2007.01671.x. ISSN 0032-0862.
+- ^ Cook, Roger T. A.; Braun, Uwe; Bradshaw, Michael; Denton, Geoffrey J.; Denton, Jennifer O. (2025-05-01). "In depth study of conidial morphology of Erysiphe alphitoides on Wisteria species reveals characteristics of a self-blocking chance host". Journal of Plant Pathology. 107 (2): 969–984. doi:10.1007/s42161-025-01836-y. ISSN 2239-7264.
+- ^ Manjunatha, L.; Singh, Shailendra; Ravikumara, B. M.; Narasa Reddy, G.; Senthilkumar, M. (2020-01-01), Amaresan, N.; Senthil Kumar, M.; Annapurna, K.; Kumar, Krishna (eds.), "Chapter 44 - Ampelomyces", Beneficial Microbes in Agro-Ecology, Academic Press, pp. 833–860, doi:10.1016/b978-0-12-823414-3.00044-7, ISBN 978-0-12-823414-3, retrieved 2025-09-06{{citation}}: CS1 maint: work parameter with ISBN (link)
+- ^ a b Braun, Uwe; Cook, Roger T. A. (2012). Taxonomic manual of the Erysiphales (powdery mildews). CBS biodiversity series. Utrecht: CBS-KNAW fungal biodiversity centre. ISBN 978-90-70351-89-2.
+- ^ Kiss, Levente; Vaghefi, Niloofar; Bransgrove, Kaylene; Dearnaley, John D. W.; Takamatsu, Susumu; Tan, Yu Pei; Marston, Craig; Liu, Shu-Yan; Jin, Dan-Ni; Adorada, Dante L.; Bailey, Jordan; Cabrera de Álvarez, Maria Graciela; Daly, Andrew; Dirchwolf, Pamela Maia; Jones, Lynne (2020-07-16). "Australia: A Continent Without Native Powdery Mildews? The First Comprehensive Catalog Indicates Recent Introductions and Multiple Host Range Expansion Events, and Leads to the Re-discovery of Salmonomyces as a New Lineage of the Erysiphales". Frontiers in Microbiology. 11 1571. doi:10.3389/fmicb.2020.01571. ISSN 1664-302X. PMC 7378747. PMID 32765452.
+- ^ Chi, Yujie; Zhang, Xintian; Tian, Zhixuan; Guan, Chengshuai; Gu, Xinzhi; Liu, Zhihui; Wang, Zhanbin; Wang, Jinjie; 1 College of Forestry, Northeast Forestry University, Harbin 150040; 2 Yangtze Delta Region Standard Technology Institute of Zhejiang Province, Hangzhou 311202; 3 Changchun Garden Plant Protection Station, Changchun 130022 (2024). "Species diversity of powdery mildew fungi (Erysiphaceae) and their host plants in Northeast Asia". Biodiversity Science. 32 (4) 23443. doi:10.17520/biods.2023443. ISSN 1005-0094.{{cite journal}}: CS1 maint: multiple names: authors list (link) CS1 maint: numeric names: authors list (link)
+- ^ Kiss, Levente (2005). "Powdery Mildew as Invasive Plant Pathogens: New Epidemics Caused by Two North American Species in Europe". Mycological Research. 109 (3): 259–260. doi:10.1017/S0953756205232793. PMID 15912940.
+- ^ Meeboon, Jamjan; Takamatsu, Susumu (2015). "Erysiphe takamatsui, a powdery mildew of lotus: Rediscovery of teleomorph after 40 years, morphology and phylogeny". Mycoscience. 56 (2): 159–167. doi:10.1016/j.myc.2014.05.002.
+- ^ Carroll, J. E.; Wilcox, W. F. (2003). "Effects of Humidity on the Development of Grapevine Powdery Mildew". Phytopathology. 93 (9): 1137–1144. Bibcode:2003PhPat..93.1137C. doi:10.1094/PHYTO.2003.93.9.1137. ISSN 0031-949X. PMID 18944098.
+- ^ "Powdery mildews / RHS". www.rhs.org.uk. Retrieved 2025-09-06.
+- ^ Gupta, D.; Sharma, J.Nl (2005). "Chemical control of powdery mildew of apple in warmer climates of Himachal Pradesh, India". Acta Horticulturae (696): 355–357. doi:10.17660/ActaHortic.2005.696.61. ISSN 0567-7572.
+- ^ Vielba-Fernández, Alejandra; Polonio, Álvaro; Ruiz-Jiménez, Laura; de Vicente, Antonio; Pérez-García, Alejandro; Fernández-Ortuño, Dolores (2020-09-17). "Fungicide Resistance in Powdery Mildew Fungi". Microorganisms. 8 (9): 1431. doi:10.3390/microorganisms8091431. ISSN 2076-2607. PMC 7564317. PMID 32957583.
+- ^ "Combination of resistance genes offers better protection for wheat against powdery mildew". Phys.org. 2008-01-22.
+- ^ Beckerman, Janna. "Using Organic Fungicides" (PDF). Purdue University.
+- ^ "How to Treat and Prevent Powdery Mildew Effectively". Planet Natural. Retrieved 2025-09-06.
+- ^ Bettiol, Wagner (1999-09-01). "Effectiveness of cow's

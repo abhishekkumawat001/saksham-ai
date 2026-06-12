@@ -1,6 +1,7 @@
 {
   "name": "kisansaathi-pwa",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -15,8 +16,13 @@
     "react-dropzone": "^14.2.3"
   },
   "devDependencies": {
-    "vite": "^4.3.2",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2",
-    "typescript": "^5.0.2"
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2"
   }
 }

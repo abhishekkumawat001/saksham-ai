@@ -6,8 +6,8 @@ export default function BottomNav() {
   
   const navItems = [
     { name: 'Home', path: '/', icon: '🏠' },
+    { name: 'Ask AI', path: '/ask', icon: '🌾' },
     { name: 'Crops', path: '/crops', icon: '🌱' },
-    { name: 'Chatbot', path: '/chat', icon: '💬' },
     { name: 'Diagnose', path: '/diagnose', icon: '📷' },
     { name: 'FAQ', path: '/faq', icon: '❓' },
   ];

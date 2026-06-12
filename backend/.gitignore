@@ -1,0 +1,9 @@
+.env
+*.db
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+app/data/whatsapp_queries.db
+# RAG vector store (rebuild with: python build_knowledge.py)
+app/data/chroma/

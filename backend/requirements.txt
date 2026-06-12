@@ -12,3 +12,24 @@ passlib[bcrypt]
 twilio
 openai
 pinecone-client
+numpy
+scipy
+scikit-learn
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+pytest-mock
+pytest-cov
+python-multipart
+# --- RAG assistant ---
+chromadb
+groq
+requests
+beautifulsoup4
+lxml
+trafilatura
+ddgs
+pandas
+pyarrow
+

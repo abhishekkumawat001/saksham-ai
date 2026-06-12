@@ -1,0 +1,158 @@
+[
+  {
+    "id": "faq_tomato_fertilizer",
+    "category": "fertilizer",
+    "questions": {
+      "hi": "टमाटर की फसल के लिए कौन सा खाद डालें?",
+      "en": "Which fertilizer should I use for tomato crop?"
+    },
+    "answers": {
+      "hi": "टमाटर के लिए रोपाई के समय 19:19:19 (NPK) डालें। फूल आने पर 12:61:00 का छिड़काव करें और फल बनते समय पोटाश (00:00:50) दें। गोबर की सड़ी खाद भी ज़रूर मिलाएँ।",
+      "en": "For tomato, apply 19:19:19 (NPK) at transplanting. At flowering use 12:61:00, and during fruiting give potash (00:00:50). Mix in well-rotted farmyard manure too."
+    },
+    "keywords": ["tamatar", "tomato", "khaad", "khad", "fertilizer", "npk", "urea"]
+  },
+  {
+    "id": "faq_urea_dose_wheat",
+    "category": "dosage",
+    "questions": {
+      "hi": "गेहूं में यूरिया कितना डालना चाहिए प्रति एकड़?",
+      "en": "How much urea per acre for wheat?"
+    },
+    "answers": {
+      "hi": "गेहूं में आमतौर पर 100-120 किलो यूरिया प्रति एकड़, तीन बार में बाँटकर दें: बुवाई के समय, पहली सिंचाई पर और दूसरी सिंचाई पर। मिट्टी जाँच के अनुसार मात्रा घटा-बढ़ा सकते हैं।",
+      "en": "Wheat typically needs 100-120 kg urea per acre, split in three doses: at sowing, at first irrigation, and at second irrigation. Adjust based on a soil test."
+    },
+    "keywords": ["urea", "gehu", "gehun", "wheat", "acre", "ekad", "dose", "kitna"]
+  },
+  {
+    "id": "faq_tomato_yellow_leaves",
+    "category": "pest",
+    "questions": {
+      "hi": "टमाटर के पत्ते पीले हो रहे हैं, क्या करूँ?",
+      "en": "Tomato leaves are turning yellow, what should I do?"
+    },
+    "answers": {
+      "hi": "पीले पत्ते अक्सर नाइट्रोजन की कमी या जड़ में पानी रुकने से होते हैं। जल निकासी ठीक करें, यूरिया या 19:19:19 का हल्का छिड़काव करें। अगर पत्ते मुड़ भी रहे हैं तो यह लीफ कर्ल वायरस हो सकता है—सफेद मक्खी रोकने के लिए नीम तेल/इमिडाक्लोप्रिड का छिड़काव करें।",
+      "en": "Yellowing is often nitrogen deficiency or waterlogging. Improve drainage and lightly spray urea or 19:19:19. If leaves also curl, it may be leaf curl virus—spray neem oil/imidacloprid to control whitefly."
+    },
+    "keywords": ["tamatar", "tomato", "patte", "peele", "yellow", "leaves", "pile"]
+  },
+  {
+    "id": "faq_spray_per_pump",
+    "category": "dosage",
+    "questions": {
+      "hi": "15 लीटर पंप में दवाई कितनी मिलाएँ?",
+      "en": "How much pesticide to mix in a 15 litre pump?"
+    },
+    "answers": {
+      "hi": "ज़्यादातर कीटनाशकों के लिए 15 लीटर पंप में 30-40 मिली (या 30-40 ग्राम) दवाई मिलाएँ। हमेशा डिब्बे पर लिखी मात्रा देखें—हर दवाई की मात्रा अलग होती है। दस्ताने और मास्क ज़रूर पहनें।",
+      "en": "For most pesticides, mix 30-40 ml (or 30-40 g) in a 15 litre pump. Always check the label—each product differs. Wear gloves and a mask."
+    },
+    "keywords": ["pump", "15 litre", "spray", "dawai", "chidkav", "mix", "kitni", "dose"]
+  },
+  {
+    "id": "faq_chilli_pest",
+    "category": "pest",
+    "questions": {
+      "hi": "मिर्च में कीड़े लग गए हैं, कौन सी दवाई डालें?",
+      "en": "My chilli has pests, which pesticide to use?"
+    },
+    "answers": {
+      "hi": "मिर्च में थ्रिप्स और सफेद मक्खी आम हैं। फिप्रोनिल 5% SC (1.5 मिली/लीटर) या इमिडाक्लोप्रिड (0.5 मिली/लीटर) का छिड़काव करें। नीम तेल जैविक विकल्प है। 7-10 दिन बाद दोहराएँ।",
+      "en": "Thrips and whitefly are common in chilli. Spray fipronil 5% SC (1.5 ml/litre) or imidacloprid (0.5 ml/litre). Neem oil is an organic option. Repeat after 7-10 days."
+    },
+    "keywords": ["mirch", "chilli", "chili", "keede", "keeda", "pest", "dawai", "thrips"]
+  },
+  {
+    "id": "faq_best_season_onion",
+    "category": "seed",
+    "questions": {
+      "hi": "प्याज की बुवाई का सही समय कौन सा है?",
+      "en": "What is the right time to sow onion?"
+    },
+    "answers": {
+      "hi": "रबी प्याज के लिए नर्सरी अक्टूबर-नवंबर में डालें और दिसंबर-जनवरी में रोपाई करें। खरीफ के लिए जून-जुलाई में बुवाई करें। अच्छी जल निकासी वाली दोमट मिट्टी सबसे अच्छी रहती है।",
+      "en": "For rabi onion, raise the nursery in October-November and transplant in December-January. For kharif, sow in June-July. Well-drained loamy soil works best."
+    },
+    "keywords": ["pyaaz", "pyaz", "onion", "buvai", "season", "samay", "sowing", "kab"]
+  },
+  {
+    "id": "faq_powdery_mildew",
+    "category": "pest",
+    "questions": {
+      "hi": "पत्तियों पर सफेद पाउडर जैसा रोग लग गया है, क्या करें?",
+      "en": "There is a white powdery disease on the leaves, what to do?"
+    },
+    "answers": {
+      "hi": "यह पाउडरी मिल्ड्यू (छाछ रोग) है। घुलनशील सल्फर (2 ग्राम/लीटर) या हेक्साकोनाज़ोल (1 मिली/लीटर) का छिड़काव करें। प्रभावित पत्तियाँ हटा दें और हवा का संचार बढ़ाएँ।",
+      "en": "This is powdery mildew. Spray wettable sulphur (2 g/litre) or hexaconazole (1 ml/litre). Remove affected leaves and improve air circulation."
+    },
+    "keywords": ["safed", "powder", "powdery", "mildew", "rog", "chhach", "fungus", "fungicide"]
+  },
+  {
+    "id": "faq_organic_fertilizer",
+    "category": "fertilizer",
+    "questions": {
+      "hi": "जैविक खाद कौन सी अच्छी रहती है?",
+      "en": "Which organic fertilizer is good?"
+    },
+    "answers": {
+      "hi": "गोबर की सड़ी खाद, वर्मीकम्पोस्ट और नीम खली अच्छे जैविक विकल्प हैं। बुवाई से पहले प्रति एकड़ 2-3 टन गोबर खाद मिलाएँ। जीवामृत और हरी खाद (ढैंचा) से मिट्टी की सेहत सुधरती है।",
+      "en": "Well-rotted farmyard manure, vermicompost and neem cake are good organic options. Mix 2-3 tonnes of FYM per acre before sowing. Jeevamrut and green manure (dhaincha) improve soil health."
+    },
+    "keywords": ["jaivik", "organic", "khaad", "compost", "vermicompost", "gobar", "neem"]
+  },
+  {
+    "id": "faq_when_water",
+    "category": "general",
+    "questions": {
+      "hi": "फसल को कितनी बार पानी देना चाहिए?",
+      "en": "How often should I water the crop?"
+    },
+    "answers": {
+      "hi": "पानी की ज़रूरत फसल और मौसम पर निर्भर करती है। सब्ज़ियों को आमतौर पर 5-7 दिन में, गर्मी में 3-4 दिन में सिंचाई चाहिए। मिट्टी 5 सेमी गहराई तक सूखी लगे तभी पानी दें—ज़्यादा पानी जड़ सड़ा देता है।",
+      "en": "Water needs depend on the crop and weather. Vegetables usually need irrigation every 5-7 days, and every 3-4 days in summer. Water only when the soil is dry to about 5 cm depth—over-watering rots the roots."
+    },
+    "keywords": ["paani", "pani", "water", "sinchai", "irrigation", "kitni baar", "kab"]
+  },
+  {
+    "id": "faq_shop_timing",
+    "category": "general",
+    "questions": {
+      "hi": "दुकान कितने बजे खुलती है?",
+      "en": "What are the shop timings?"
+    },
+    "answers": {
+      "hi": "हमारी दुकान सुबह 8 बजे से शाम 7 बजे तक खुली रहती है, सोमवार से शनिवार। रविवार को सुबह 8 से दोपहर 1 बजे तक।",
+      "en": "Our shop is open 8 AM to 7 PM, Monday to Saturday. On Sunday, 8 AM to 1 PM."
+    },
+    "keywords": ["dukaan", "dukan", "shop", "timing", "samay", "khulti", "open", "kitne baje"]
+  },
+  {
+    "id": "faq_potato_blight",
+    "category": "pest",
+    "questions": {
+      "hi": "आलू में झुलसा रोग (ब्लाइट) का इलाज क्या है?",
+      "en": "How to treat blight disease in potato?"
+    },
+    "answers": {
+      "hi": "अगेती/पछेती झुलसा के लिए मैंकोज़ेब (2.5 ग्राम/लीटर) का छिड़काव करें। तेज़ संक्रमण में सिमॉक्सानिल+मैंकोज़ेब इस्तेमाल करें। प्रभावित पत्तियाँ हटाएँ और 10 दिन में दोबारा छिड़काव करें।",
+      "en": "For early/late blight spray mancozeb (2.5 g/litre). In severe infection use cymoxanil + mancozeb. Remove affected leaves and respray after 10 days."
+    },
+    "keywords": ["aloo", "alu", "potato", "jhulsa", "blight", "rog", "mancozeb"]
+  },
+  {
+    "id": "faq_seed_treatment",
+    "category": "seed",
+    "questions": {
+      "hi": "बुवाई से पहले बीज उपचार कैसे करें?",
+      "en": "How to do seed treatment before sowing?"
+    },
+    "answers": {
+      "hi": "बुवाई से पहले बीज को कार्बेन्डाज़िम या थायरम (2-3 ग्राम/किलो बीज) से उपचारित करें ताकि फफूंद से बचाव हो। दलहन में राइज़ोबियम कल्चर भी लगाएँ। उपचारित बीज छाया में सुखाकर तुरंत बोएँ।",
+      "en": "Before sowing, treat seed with carbendazim or thiram (2-3 g/kg seed) to protect from fungus. For pulses also apply rhizobium culture. Dry treated seed in shade and sow promptly."
+    },
+    "keywords": ["beej", "seed", "upchar", "treatment", "bardasht", "carbendazim", "buvai"]
+  }
+]

@@ -3,9 +3,9 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import BottomNav from './components/BottomNav';
 import Home from './pages/Home';
 import CropAdvisory from './pages/CropAdvisory';
-import Chatbot from './pages/Chatbot';
 import ImageDiagnose from './pages/ImageDiagnose';
 import FAQ from './pages/FAQ';
+import Assistant from './pages/Assistant';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/crops" element={<CropAdvisory />} />
-          <Route path="/chat" element={<Chatbot />} />
+          <Route path="/ask" element={<Assistant />} />
           <Route path="/diagnose" element={<ImageDiagnose />} />
           <Route path="/faq" element={<FAQ />} />
         </Routes>
