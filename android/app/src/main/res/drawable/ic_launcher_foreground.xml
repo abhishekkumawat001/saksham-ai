@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Leaf / plant shape representing KisanSaathi -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C54,20 30,35 30,58 C30,72 40,82 54,84 C68,82 78,72 78,58 C78,35 54,20 54,20 Z" />
+    <path
+        android:fillColor="#FEFCE8"
+        android:pathData="M54,84 L54,50"
+        android:strokeColor="#FEFCE8"
+        android:strokeWidth="3" />
+</vector>
