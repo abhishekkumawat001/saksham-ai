@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         // Replace with your deployed HTTPS URL before building the APK.
         // Example: "https://kisansaathi.onrender.com"
-        private const val APP_URL = "https://YOUR_DEPLOYED_URL_HERE"
+        private const val APP_URL = "https://saksham-ai-production.up.railway.app"
 
         private const val FILE_CHOOSER_CODE = 1001
     }
