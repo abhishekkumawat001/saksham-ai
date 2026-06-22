@@ -33,12 +33,19 @@ app.include_router(admin.router,     prefix="/api/v1/admin",     tags=["Merchant
 
 @app.on_event("startup")
 def seed_knowledge_base() -> None:
-    try:
-        from app.core.knowledge.ingest import ensure_seeded
-        count = ensure_seeded()
-        print(f"[startup] knowledge base ready: {count} chunks.")
-    except Exception as exc:
-        print(f"[startup] knowledge base seeding skipped: {exc}")
+    import threading
+
+    def _seed():
+        try:
+            from app.core.knowledge.ingest import ensure_seeded
+            count = ensure_seeded()
+            print(f"[startup] knowledge base ready: {count} chunks.")
+        except Exception as exc:
+            print(f"[startup] knowledge base seeding skipped: {exc}")
+
+    # Run in background so the server starts accepting requests immediately.
+    # Railway kills the process if it doesn't respond within ~30 s of boot.
+    threading.Thread(target=_seed, daemon=True).start()
 
 
 @app.get("/health")
