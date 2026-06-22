@@ -69,7 +69,10 @@ export default function Assistant() {
     } catch {
       setMessages((m) => [
         ...m,
-        { sender: 'bot', text: 'Could not reach the assistant. Is the backend running on :8000?' },
+        {
+          sender: 'bot',
+          text: 'Server is warming up — this can take 30–60 seconds on first use. Please try again in a moment. 🌱',
+        },
       ]);
     } finally {
       setSending(false);
@@ -83,7 +86,7 @@ export default function Assistant() {
           <h1 className="text-lg font-bold">Ask AI 🌾</h1>
           <p className="text-xs opacity-80">
             {status
-              ? `${status.knowledge_chunks} KB chunks · ${
+              ? `${status.knowledge_chunks > 0 ? `${status.knowledge_chunks} KB chunks` : 'KB loading…'} · ${
                   status.llm_available ? `LLM: ${status.model}` : 'LLM off (extractive)'
                 }`
               : 'connecting…'}
