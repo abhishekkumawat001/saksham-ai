@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KisanSaathi</string>
+    <string name="loading">Loading…</string>
+    <string name="error_no_internet">No internet connection. Please check your network and try again.</string>
+</resources>

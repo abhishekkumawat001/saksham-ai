@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        NoActionBar so the full screen is given to the WebView.
+        Brand green (#1B6B3A) matches the Tailwind `brand` colour in tailwind.config.js.
+    -->
+    <style name="Theme.KisanSaathi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B6B3A</item>
+        <item name="colorPrimaryVariant">#145229</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FEFCE8</item>
+        <item name="colorOnSecondary">#1C1917</item>
+        <item name="android:statusBarColor">#1B6B3A</item>
+        <item name="android:windowBackground">#FEFCE8</item>
+    </style>
+</resources>
