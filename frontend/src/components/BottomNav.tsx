@@ -8,7 +8,7 @@ export default function BottomNav() {
     { name: 'Home', path: '/', icon: '🏠' },
     { name: 'Ask AI', path: '/ask', icon: '🌾' },
     { name: 'Crops', path: '/crops', icon: '🌱' },
-    { name: 'Diagnose', path: '/diagnose', icon: '📷' },
+    // { name: 'Diagnose', path: '/diagnose', icon: '📷' },  // coming in v2
     { name: 'FAQ', path: '/faq', icon: '❓' },
   ];
 
